@@ -1,0 +1,9 @@
+original: 2'40''
+2h +7.07~
+1. 5*2: 6 slaves: 2'04''(124'') (94MB)
+		12 slaves: 1'30''(90'') (94MB)
+	4*3:12 slaves:
+2. 6 slaves:0.758MB/s
+	12 slaves:1.044MB/s
+3. Increased about 37.73%; It'strong scaling
+4. 20*0.68*12
